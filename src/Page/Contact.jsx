@@ -145,7 +145,7 @@ const Contact = () => {
 
         <div className="mb-6">
           <ReCAPTCHA
-            sitekey="YOUR_GOOGLE_RECAPTCHA_SITE_KEY" 
+            sitekey="6Le2HwwrAAAAAH0IQv6-BzJhqx2PWgrtqL-s3N3R" 
             onChange={handleRecaptcha}
           />
         </div>
