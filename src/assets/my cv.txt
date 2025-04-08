@@ -1,0 +1,75 @@
+**Md Deluar Hossen**
+
+---
+
+📞 **Phone:** 01796850303  
+📧 **Email:** dondeluar@gmail.com  
+📍 **Address:** Bagmara, Rajshahi, Bangladesh  
+🌐 **GitHub:** [https://github.com/deluardon](https://github.com/deluardon)  
+🖥️ **Portfolio:** [https://deluardon.github.io](https://deluardon.github.io)  
+
+---
+
+🎯 **Career Objective**  
+As a passionate and hardworking student currently in my first year of Intermediate, I am eager to learn and grow in the field of web development. With a strong foundation in frontend technologies, I aim to contribute to real-world projects while constantly improving my skills and becoming a job-ready smart developer.
+
+---
+
+🎓 **Education**  
+**Intermediate (1st Year) – Ongoing**  
+Institution: [Your College Name]  
+Session: [Starting Year] – Present  
+
+---
+
+💻 **Technical Skills**
+- HTML, CSS, Tailwind CSS, DaisyUI
+- JavaScript, ES6, React.js
+- Node.js, Express.js, MongoDB
+- Firebase Authentication, Google Cloud
+- Git & GitHub, Vercel
+- Responsive Web Design, Redux
+- SweetAlert2, React Toastify, Framer Motion
+
+---
+
+🚀 **Projects**
+
+**1. Personal Portfolio Website**  
+- A modern and responsive portfolio built with React and Tailwind CSS.
+- Includes animations using Framer Motion and typewriter effects.
+- Features sections like About, Projects, Contact, and more.
+- SweetAlert2 and React Toastify added for better user interaction.
+
+**2. Chill Gamer**  
+- A game review platform with user authentication, watchlist features, and dark/light theme toggle.
+- Tools: React, Firebase, MongoDB.
+
+**3. Discount PRO**  
+- A coupon application to find and copy coupons from popular Bangladeshi e-commerce platforms.
+- Tools: React, Firebase, Tailwind CSS.
+
+---
+
+🌐 **Languages**
+- English
+- Bangla
+
+---
+
+🧠 **Soft Skills**
+- Strong communication
+- Team collaboration
+- Time management
+- Self-motivated and eager to learn
+
+---
+
+📄 **References**  
+Available upon request.
+
+---
+
+📝 **Declaration**  
+I hereby declare that the above information is true to the best of my knowledge and belief.
+
